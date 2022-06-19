@@ -1,5 +1,8 @@
 # triangle_app
 
+
+[![Codemagic build status](https://api.codemagic.io/apps/62af1ad74f03035a1f6fb794/62af1ad74f03035a1f6fb793/status_badge.svg)](https://codemagic.io/apps/62af1ad74f03035a1f6fb794/62af1ad74f03035a1f6fb793/latest_build)
+
 A new Flutter project.
 
 ## Getting Started
